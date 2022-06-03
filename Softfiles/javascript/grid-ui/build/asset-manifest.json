@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ui/static/css/main.b5f7dd99.chunk.css",
+    "main.js": "/ui/static/js/main.7dcd86be.chunk.js",
+    "main.js.map": "/ui/static/js/main.7dcd86be.chunk.js.map",
+    "runtime-main.js": "/ui/static/js/runtime-main.e430d444.js",
+    "runtime-main.js.map": "/ui/static/js/runtime-main.e430d444.js.map",
+    "static/js/2.abd91fbb.chunk.js": "/ui/static/js/2.abd91fbb.chunk.js",
+    "static/js/2.abd91fbb.chunk.js.map": "/ui/static/js/2.abd91fbb.chunk.js.map",
+    "index.html": "/ui/index.html",
+    "static/css/main.b5f7dd99.chunk.css.map": "/ui/static/css/main.b5f7dd99.chunk.css.map",
+    "static/js/2.abd91fbb.chunk.js.LICENSE.txt": "/ui/static/js/2.abd91fbb.chunk.js.LICENSE.txt",
+    "static/media/android.53b63277.svg": "/ui/static/media/android.53b63277.svg",
+    "static/media/chrome.191aefd5.svg": "/ui/static/media/chrome.191aefd5.svg",
+    "static/media/edge.01a4ea8d.svg": "/ui/static/media/edge.01a4ea8d.svg",
+    "static/media/index.css": "/ui/static/media/encode-sans-v7-latin-regular.1f9ac7fd.woff",
+    "static/media/firefox.efda5897.svg": "/ui/static/media/firefox.efda5897.svg",
+    "static/media/linux.ff969ad1.svg": "/ui/static/media/linux.ff969ad1.svg",
+    "static/media/mac.348e84b8.svg": "/ui/static/media/mac.348e84b8.svg",
+    "static/media/opera.b6559658.svg": "/ui/static/media/opera.b6559658.svg",
+    "static/media/safari.93e4ca5d.svg": "/ui/static/media/safari.93e4ca5d.svg",
+    "static/media/selenium-grid-logo.86cdb73d.svg": "/ui/static/media/selenium-grid-logo.86cdb73d.svg",
+    "static/media/unknown.053aec7b.svg": "/ui/static/media/unknown.053aec7b.svg",
+    "static/media/windows.680a11ac.svg": "/ui/static/media/windows.680a11ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e430d444.js",
+    "static/js/2.abd91fbb.chunk.js",
+    "static/css/main.b5f7dd99.chunk.css",
+    "static/js/main.7dcd86be.chunk.js"
+  ]
+}

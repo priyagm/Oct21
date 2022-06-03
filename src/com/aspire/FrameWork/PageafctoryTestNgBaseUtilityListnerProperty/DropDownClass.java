@@ -1,0 +1,21 @@
+package com.aspire.FrameWork.PageafctoryTestNgBaseUtilityListnerProperty;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WrapsElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class DropDownClass 
+{
+@FindBy(xpath="(//a[@href=\"/profile\"])[2]") private WebElement pro;
+
+DropDownClass(WebDriver driver)
+{
+	PageFactory.initElements(driver,this);
+}
+public void ClickOnProfile()
+{
+	pro.click();
+}
+}
